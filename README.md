@@ -34,7 +34,7 @@ English | [简体中文](./README_zh.md)
 🔫 Counter-Strike 2                 🕘 1958 hrs 23 mins
 💻 Wallpaper Engine                 🕘 346 hrs 49 mins
 🚓 Grand Theft Auto V Legacy        🕘 65 hrs 44 mins
-🎮 Fallout Shelter                  🕘 26 hrs 6 mins
+🎮 Fallout Shelter                  🕘 26 hrs 9 mins
 🎮 Muse Dash                        🕘 17 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
