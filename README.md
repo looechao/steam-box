@@ -31,11 +31,11 @@ English | [简体中文](./README_zh.md)
     <!-- steam-box start -->
 #### <a href="https://gist.github.com/ad59ff5a561899435bbc24f423a40667" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike 2                 🕘 1958 hrs 23 mins
+🔫 Counter-Strike 2                 🕘 1959 hrs 10 mins
 💻 Wallpaper Engine                 🕘 346 hrs 49 mins
 🚓 Grand Theft Auto V Legacy        🕘 65 hrs 44 mins
 🎮 Fallout Shelter                  🕘 26 hrs 18 mins
-🎮 Muse Dash                        🕘 17 hrs 47 mins
+🎮 Muse Dash                        🕘 17 hrs 51 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
