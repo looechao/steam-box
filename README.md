@@ -34,8 +34,8 @@ English | [简体中文](./README_zh.md)
 🔫 Counter-Strike 2                 🕘 2079 hrs 57 mins
 💻 Wallpaper Engine                 🕘 346 hrs 49 mins
 🚓 Grand Theft Auto V Legacy        🕘 65 hrs 44 mins
-🎮 Persona 5 Royal                  🕘 64 hrs 20 mins
-🎮 Street Fighter™ 6                🕘 28 hrs 34 mins
+🎮 Persona 5 Royal                  🕘 65 hrs 7 mins
+🎮 Street Fighter™ 6                🕘 28 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
