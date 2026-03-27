@@ -33,7 +33,7 @@ English | [简体中文](./README_zh.md)
 ```text
 🔫 Counter-Strike 2                 🕘 2114 hrs 38 mins
 💻 Wallpaper Engine                 🕘 346 hrs 49 mins
-🎮 Grand Theft Auto V Enhanced      🕘 70 hrs 3 mins
+🎮 Grand Theft Auto V Enhanced      🕘 81 hrs 44 mins
 🎮 Persona 5 Royal                  🕘 66 hrs 22 mins
 🚓 Grand Theft Auto V Legacy        🕘 65 hrs 44 mins
 ```
