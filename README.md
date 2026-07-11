@@ -31,7 +31,7 @@ English | [简体中文](./README_zh.md)
     <!-- steam-box start -->
 #### <a href="https://gist.github.com/ad59ff5a561899435bbc24f423a40667" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike 2                 🕘 2164 hrs 38 mins
+🔫 Counter-Strike 2                 🕘 2167 hrs 50 mins
 💻 Wallpaper Engine                 🕘 346 hrs 49 mins
 🎮 Grand Theft Auto V Enhanced      🕘 107 hrs 38 mins
 🎮 Persona 5 Royal                  🕘 66 hrs 22 mins
